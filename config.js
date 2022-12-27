@@ -1,7 +1,7 @@
 module.exports = {
   url: "https://notes.desktopofsamuel.com",
   pathPrefix: "",
-  SITE_TITLE: "Obsidian Garden",
+  SITE_TITLE: "TheMorbeusGarden",
   SITE_SUBTITLE: "Gatsby Starter Made for Obsidian Users",
   SITE_DESCRIPTION:
     "A Gatsby starter template to publish Obsidian vault for free",
