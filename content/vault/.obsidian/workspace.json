@@ -11,12 +11,8 @@
             "id": "0780a079bcde2f58",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Changelog.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -77,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Changelog.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -117,12 +112,12 @@
   },
   "active": "0780a079bcde2f58",
   "lastOpenFiles": [
+    "Changelog.md",
     "Premature Abstraction.md",
     "OKR.md",
     "Markdown.md",
     "Getting Started.md",
     "Design OKR.md",
-    "Changelog.md",
     "web/Googe Lighthouse Score.md",
     "web/Cumulative Layout Score.md",
     "Digital Garden.md",
