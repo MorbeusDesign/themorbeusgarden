@@ -5,7 +5,7 @@ module.exports = {
   SITE_SUBTITLE: "Welcome to my Digital Garden",
   SITE_DESCRIPTION:
     "A Gatsby starter template to publish Obsidian vault for free",
-  KEYWORDS: "Gatsby, Starter, Obsidian, Digial Garden",
+  KEYWORDS: "Gatsby, Morbeus, Obsidian, Digital Garden, TheMorbeusZone",
   HERO_TITLE:
     "A Digital garden is usually a place where Ideas or simple Thoughts grow and It can serve as a Nourishment for your Mind and as a Source of Intellectual Sustenance",
   HERO_SUBTITLE: "Created by Morbeus",
@@ -13,6 +13,10 @@ module.exports = {
   LOCALE: "en",
   POST_PER_PAGE: 6,
   MENU: [
+    {
+      label: "Home",
+      path: "/",
+    },
     {
       label: "About Me",
       path: "/about/",
@@ -28,7 +32,7 @@ module.exports = {
       path: "/",
     },
     {
-      label: "About",
+      label: "About Me",
       path: "/about/",
     },
     {
