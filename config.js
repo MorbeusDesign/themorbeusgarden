@@ -1,20 +1,20 @@
 module.exports = {
-  url: "https://notes.desktopofsamuel.com",
+  url: "https://themorbeusgarden.gatsbyjs.io/",
   pathPrefix: "",
   SITE_TITLE: "TheMorbeusGarden",
-  SITE_SUBTITLE: "Gatsby Starter Made for Obsidian Users",
+  SITE_SUBTITLE: "Welcome to my Digital Garden",
   SITE_DESCRIPTION:
     "A Gatsby starter template to publish Obsidian vault for free",
   KEYWORDS: "Gatsby, Starter, Obsidian, Digial Garden",
   HERO_TITLE:
-    "Free Gatsby starter template to host your own digital garden for free, created for Obsidian knowledge base.",
-  HERO_SUBTITLE: "Designed by JUXT Design",
-  COPYRIGHT: "JUXT Design",
+    "A Digital garden is usually a place where Ideas or simple Thoughts grow and It can serve as a Nourishment for your Mind and as a Source of Intellectual Sustenance",
+  HERO_SUBTITLE: "Created by Morbeus",
+  COPYRIGHT: "Morbeus Design",
   LOCALE: "en",
   POST_PER_PAGE: 6,
   MENU: [
     {
-      label: "About",
+      label: "About Me",
       path: "/about/",
     },
     {
@@ -37,11 +37,11 @@ module.exports = {
     },
     {
       label: "Github",
-      path: "https://github.com/juxtdesigncc/gatsby-starter-obsidian-garden",
+      path: "https://github.com/MorbeusDesign",
     },
   ],
   AUTHOR: {
-    NAME: "JUXT Design",
-    TWITTER: "@juxtdesigncc",
+    NAME: "Morbeus Design",
+    TWITTER: "@morbeusdesign",
   },
 };
