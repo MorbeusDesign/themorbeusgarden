@@ -1,7 +1,8 @@
 ---
 tags:
 - digital-garden
-- Learning-Coding
+- learning-methods
+- Programming-Languages
 
 ---
 
