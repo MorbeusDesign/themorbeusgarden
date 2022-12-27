@@ -3,15 +3,15 @@
   </h1>
 </div>
 <div align="center"> 
-<a href="https://github.com/juxtdesigncc/gatsby-starter-obsidian-garden">
-  <img src="https://img.shields.io/github/stars/juxtdesigncc/gatsby-starter-obsidian-garden?style=social" alt="Star this repo on Github" />
+<a href="https://github.com/MorbeusDesign/themorbeusgarden">
+  <img src="https://img.shields.io/github/stars/MorbeusDesign/themorbeusgarden?style=social" alt="Star this repo on Github" />
 </a>
-<a href="https://twitter.com/intent/follow?screen_name=juxtdesigncc">
-  <img src="https://img.shields.io/twitter/follow/juxtdesigncc.svg?label=Follow%20@juxtdesigncc" alt="Follow @juxtdesigncc on Twitter" />
+<a href="https://twitter.com/intent/follow?screen_name=morbeusdesign">
+  <img src="https://img.shields.io/twitter/follow/morbeusdesign.svg?label=Follow%20@morbeusdesign" alt="Follow @morbeusdesign on Twitter" />
   </a>
 </div>
 
-A Gatsby starter template to publish [Obsidian](https://obsidian.md/) vault for free, created by [@juxtdesigncc](https:/juxtdesign.cc/?utm_source=obsidian-garden)
+A Gatsby starter template to publish [Obsidian](https://obsidian.md/) vault for free, created by [@morbeus](https:/morbeusdesign.com/?utm_source=obsidian-garden)
 
 <a href="https://garden.gtsb.io">
   <img src="https://img.shields.io/badge/Demo-Gatsby%20Cloud-5b2c8a?style=for-the-badge" alt="Demo Website"/>
