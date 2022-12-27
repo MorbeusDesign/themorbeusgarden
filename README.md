@@ -11,7 +11,7 @@
   </a>
 </div>
 
-A Gatsby starter template to publish [Obsidian](https://obsidian.md/) vault for free, created by [@morbeus](https:/morbeusdesign.com/?utm_source=obsidian-garden)
+A Gatsby starter template to publish [Obsidian](https://obsidian.md/) vault for free, created by [@morbeus](https://www.morbeusdesign.com/?utm_source=obsidian-garden)
 
 <a href="https://garden.gtsb.io">
   <img src="https://img.shields.io/badge/Demo-Gatsby%20Cloud-5b2c8a?style=for-the-badge" alt="Demo Website"/>
@@ -19,8 +19,8 @@ A Gatsby starter template to publish [Obsidian](https://obsidian.md/) vault for 
 
 ## 🚀 Quick Start
 
-[![Deploy to Gatsby Cloud Now](https://camo.githubusercontent.com/fda7a8fe64d0351d9eb4aff4446b92368c7d5d9a55889fd16041eb393c5a697d/68747470733a2f2f7777772e6761747362796a732e636f6d2f6465706c6f796e6f772e737667)](https://www.gatsbyjs.com/dashboard/deploynow?url=https://github.com/juxtdesigncc/gatsby-starter-obsidian-garden)
-[![Deploy to Netlify Now](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/juxtdesigncc/gatsby-starter-obsidian-garden)
+[![Deploy to Gatsby Cloud Now](https://camo.githubusercontent.com/fda7a8fe64d0351d9eb4aff4446b92368c7d5d9a55889fd16041eb393c5a697d/68747470733a2f2f7777772e6761747362796a732e636f6d2f6465706c6f796e6f772e737667)](https://www.gatsbyjs.com/dashboard/deploynow?url=https://github.com/MorbeusDesign/themorbeusgarden)
+[![Deploy to Netlify Now](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/MorbeusDesign/themorbeusgarden)
 
 ## 💎 Key Features
 
@@ -41,11 +41,11 @@ Clone this template and navigate into the folder
 
 ```node
 # Create a gatsby site with npx
-npx gatsby new project-name https://github.com/juxtdesigncc/gatsby-starter-obsidian-garden
+npx gatsby new project-name https://github.com/MorbeusDesign/themorbeusgarden
 cd project-name
 
 # or
-git clone https://github.com/juxtdesigncc/gatsby-starter-obsidian-garden project-name
+git clone https://github.com/MorbeusDesign/themorbeusgarden project-name
 cd project-name
 ```
 
@@ -109,7 +109,7 @@ Thank you for trying this out! I'm still constantly shipping new updates to this
 
 You can support this project by:
 
-- Raise issues on [Github](https://github.com/juxtdesigncc/gatsby-starter-obsidian-garden/issues) if you catch any bugs
-- Submit a [PR](https://github.com/juxtdesigncc/gatsby-starter-obsidian-garden/pulls) if you discovered a solution
-- Share this project on Twitter and tag [me](https://twitter.com/juxtdesigncc)!
-- Give me a star on [Github](https://github.com/juxtdesigncc/gatsby-starter-obsidian-garden/)
+- Raise issues on [Github](https://github.com/MorbeusDesign/themorbeusgarden/issues) if you catch any bugs
+- Submit a [PR](https://github.com/MorbeusDesign/themorbeusgarden/pulls) if you discovered a solution
+- Share this project on Twitter and tag [me](https://twitter.com/morbeusdesign)!
+- Give me a star on [Github](https://github.com/MorbeusDesign/themorbeusgarden)
