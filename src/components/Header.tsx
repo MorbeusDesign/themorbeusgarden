@@ -24,7 +24,7 @@ export default function Header() {
               <Link
                 to="https://github.com/MorbeusDesign/themorbeusgarden"
                 target="_blank"
-                className="px-4 py-2 bg-gray-800 rounded-full text-white hover:bg-gray-400 transition-all ease-in-out duration-300 hover:text-white uppercase">
+                className="px-4 py-2 bg-gray-800 rounded-full text-white hover:bg-teal-800 transition-all ease-in-out duration-300 hover:text-white uppercase">
                 Try Now
               </Link>
         </div>
