@@ -8,7 +8,7 @@ export default function Header() {
     <header>
       <Container>
         <nav className="flex justify-between py-6 md:py-10">
-          <Link to="/" className="text-black">
+          <Link to="/" className="text-black sm:pe-10">
             TheMorbeusGarden
           </Link>
           <ul className="list-style-none grid grid-flow-col auto-cols-max gap-6 items-center">
