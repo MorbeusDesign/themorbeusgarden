@@ -11,7 +11,7 @@ export default function Header() {
           <Link to="/" className="text-black ">
             TheMorbeusGarden
           </Link>
-          <ul className="list-style-none grid grid-flow-col auto-cols-max gap-6 sm:ps-10 items-center">
+          <ul className="list-style-none grid grid-flow-col auto-cols-max gap-6 ps-10 items-center">
             {MENU.map((item) => (
               <li key={item.label}>
                 <Link to={item.path}>{item.label}</Link>
