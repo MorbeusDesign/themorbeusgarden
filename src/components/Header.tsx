@@ -17,17 +17,17 @@ export default function Header() {
                 <Link to={item.path}>{item.label}</Link>
               </li>
             ))}
-            <li>
+            
+          </ul>
+        </nav>
+        <li>
               <Link
                 to="https://github.com/MorbeusDesign/themorbeusgarden"
                 target="_blank"
-                className="mx-auto px-4 py-2 bg-gray-800 rounded-full text-white hover:bg-gray-600 transition-all ease-in-out duration-300 hover:text-white uppercase"
-              >
+                className="px-4 py-2 bg-gray-800 rounded-full text-white hover:bg-gray-600 transition-all ease-in-out duration-300 hover:text-white uppercase">
                 Try Now
               </Link>
-            </li>
-          </ul>
-        </nav>
+        </li>
       </Container>
     </header>
   );
